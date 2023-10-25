@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Margarita",
+    "topping": "tomato sauce, mozzarella",
+    "price": 10,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 2,
+    "name": "Prosciutto",
+    "topping": "tomato sauce, prosciutto, mozzarella",
+    "price": 11,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 3,
+    "name": "Sonkogu",
+    "topping": "tomato sauce, ham, mushroom, corn, mozzarella",
+    "price": 13,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 4,
+    "name": "Quattro formaggi",
+    "topping": "tomato sauce,  mozzarella, parmesan, gorgonzola, pecorino",
+    "price": 14,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 5,
+    "name": "Capricciosa",
+    "topping": "tomato sauce, ham, mushroom, mozzarella",
+    "price": 12,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 6,
+    "name": "Frutti di Mare",
+    "topping": "tomato sauce, seafood, mozzarella",
+    "price": 13,
+    "img": "/../../public/img/pizza.png"
+  },
+  {
+    "id": 7,
+    "name": "Pomodoro",
+    "topping": "tomato sauce, rocket, tomato slices, mozzarella",
+    "price": 11,
+    "img": "/../../public/img/pizza.png"
+  }
+]
